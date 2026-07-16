@@ -7,7 +7,7 @@ This excel project uses an OpenAI generated home insurance dataset for a sole pu
 <img width="800" height="289" alt="Recording2026-07-13075323-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/d1f36916-c63a-4cf3-b290-af96036bf531" />
 
 ## Business Insights
-The dashboard enables users to evaluate simulated company's insurance portfolio's health; identify the strongest performing municipalities/cities; compare policy distribution accross products; monitor active and inactive policies; and assess agent productivity. These insights support better operational planning, portfolio management and strategic decision-making.
+The dashboard enables users to evaluate simulated company's insurance portfolio's health; identify the strongest performing municipalities/cities; compare policy distribution across products; monitor active and inactive policies; and assess agent productivity. These insights support better operational planning, portfolio management and strategic decision-making.
 ## Dataset
 Dataset Used - OpenAI generated dataset
 - The project utilizes an OpenAI generated dataset that consists of 35 policyholders.
