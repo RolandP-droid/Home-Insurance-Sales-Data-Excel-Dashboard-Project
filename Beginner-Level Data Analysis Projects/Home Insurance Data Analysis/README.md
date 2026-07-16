@@ -1,4 +1,4 @@
-# Home Insurance Sales Data Excel Dashboard Project
+# Home Insurance Sales Excel Dashboard Project
 # Disclamer
 The dataset used for this project is an OpenAI generated dataset. Information on the dataset are not ***REAL***. Data quality of the dataset are ***INCONSISTENT, UNREALISTIC and BOUND TO ERRORS***, if it were to apply in a real-life setting. The use of the dataset is for beginner dashboard creation simulation purposes only.
 ## Project Overview
