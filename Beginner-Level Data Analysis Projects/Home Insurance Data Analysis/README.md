@@ -4,7 +4,8 @@ The dataset used for this project is an OpenAI generated dataset. Information on
 ## Project Overview
 This excel project uses an OpenAI generated home insurance dataset for a sole purpose of self-learning to create a comprehensive and interactive dashboard for home insurance annual policy sales. The goal is to provide a user-friendly dashboard where users can interact the data and explore home insurance annual policy sales insights.
 
-<img width="800" height="289" alt="Recording2026-07-13075323-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/d1f36916-c63a-4cf3-b290-af96036bf531" />
+<img width="800" height="288" alt="HomeInsuranceDashboard-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/2db4e7d6-1bac-4b72-8edf-5d7f1112d9c5" />
+
 
 ## Business Insights
 The dashboard enables users to evaluate simulated company's insurance portfolio's health; identify the strongest performing municipalities/cities; compare policy distribution across products; monitor active and inactive policies; and assess agent productivity. These insights support better operational planning, portfolio management and strategic decision-making.
@@ -24,7 +25,7 @@ Dataset Used - OpenAI generated dataset
 1. **Create and Duplicate the Worksheet:** Copy and paste the raw data from ChatGPT. Then, duplicate the worksheet for data manipulation and keeping the original data intact.
 2. **Data Cleaning:** Utilize the *Text to Column function* to split a single column of text into multiple columns. Convert the whole dataset into a table. Identify and remove the duplicates by using the *Filter and Find & Replace functions*. Identify and inputting "N/A" on the blank cells by using the *Go to Special function*. Standardize the categorial data (e.g. Claim History, Policy Status).
 3. **Pivot Tables:** Utilize pivot tables to summarize and analyze data for visualization on a new worksheet.
-4. **Visualization:** Build pivotcharts using recommended charts to represent key insights, such as *Annual Premium Collected by Municipalities/Cities, Average Premiums per Policy by Municipalities/Cities, Policy Distribution by Municipalities/Cities and Type, Policy Sold per Agent, Policy Status Overview.* Build visualization for *Total of Policies, Retention Rate, Total Active Annual Premium, Total Active Coverage Amount.*
+4. **Visualization:** Build pivotcharts using recommended charts to represent key insights, such as *Annual Premium Collected by Municipalities/Cities, Average Premiums per Policy by Municipalities/Cities, Policy Distribution by Municipalities/Cities and Type, Policy Sold per Agent, Policy Status Overview.* Build visualization for *Total of Policies, Retention Rate, Total Annual Premium Collected, Total Coverage Amount.*
 5. **Dashboard Creation:** Move the Pivotcharts and Visualizations into a new dashboard sheet for a consolidated view.
 6. **Chart Customization:** Adjust chart titles, Axis labels and formatting for better clarity.
 ## Dashboard Components
